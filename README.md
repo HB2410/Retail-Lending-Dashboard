@@ -54,9 +54,3 @@ The primary objective of this dashboard is to:
 - **Revenue Drivers:** Processing fees, loan insurance, and repayment income are major revenue contributors.
 - **Productivity Trends:** Bucketing employee/manager performance provides a clear view of individual and team contributions.
 
-## Conclusion  
-- This Shiny app provides an interactive platform to explore and analyze global poverty and inequality data.  
-- Users can gain insights into key socioeconomic indicators such as **Gini Index**, **Poverty Severity**, and **Headcount Ratio**.  
-- The app empowers policymakers, researchers, and data enthusiasts to make data-driven decisions by enabling dynamic filtering, visualization, and regression analysis.  
-- With country-wise and region-wise perspectives, the app offers a comprehensive view of global inequality trends.  
-
